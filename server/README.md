@@ -1,0 +1,1 @@
+This app can log all things !
